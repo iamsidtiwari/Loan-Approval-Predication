@@ -35,3 +35,4 @@ cd loan_approval_project
 pip install -r requirements.txt
 
 
+
